@@ -23,4 +23,4 @@ Hieronder vind je alvast mijn (voorlopig) geplande route. Die gaat vast en zeker
 
 Voor nu ligt de prioriteit nog op het afmaken van m'n bachelor. Deze reis is slechts een aangename deadline...
 
-<iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zqhM4S9nvt8Y.ksG4epeEROcE" ></iframe>
+<iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zqhM4S9nvt8Y.ksG4epeEROcE" width="760" height="640"></iframe>
