@@ -1,14 +1,18 @@
 ---
 layout: post
 type: article
-title: "Eerste stapjes.."
+title: Eerste stapjes..
 description: "Tickets, routes en deadlines"
 category: Voorbereiding
-tags: [thuis, planning, voorbereiding]
-image:
-   feature: airplane.jpg
+tags: 
+  - thuis
+  - planning
+  - voorbereiding
+image: 
+  feature: airplane.jpg
 comments: true
 share: true
+published: true
 ---
 
 De eerste knopen zijn doorgehakt en de eerste tickets zijn geboekt; als alles volgens plan verloopt zit ik 28 april al heel vroeg in het vliegtuig, onderweg naar Quito, Ecuador.  
@@ -19,5 +23,4 @@ Hieronder vind je alvast mijn (voorlopig) geplande route. Die gaat vast en zeker
 
 Voor nu ligt de prioriteit nog op het afmaken van m'n bachelor. Deze reis is slechts een aangename deadline...
 
-<iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zqhM4S9nvt8Y.ksG4epeEROcE" width="640" height="640"></iframe>
-
+<iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zqhM4S9nvt8Y.ksG4epeEROcE" ></iframe>
