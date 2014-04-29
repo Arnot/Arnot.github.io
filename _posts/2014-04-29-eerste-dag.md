@@ -1,19 +1,23 @@
 ---
 layout: post
-title: "Welkom in de feesttent"
+title: Welkom in de feesttent
 category: Ecuador
-tags: [Quito, William, Mas cafe]
+tags: 
+  - Quito
+  - William
+  - Mas cafe
 image: 
   feature: IMG_0009.JPG
 comments: true
 share: true
+published: true
 ---
 
 Ik ben ondertussen in Quito, in het studentenhuis van de talenschool waar ik vanaf maandag Spaans ga leren.
 
 <!--more-->
 
-Ik wilde eigenlijk al eerder een stukje schrijven over vorige week, maar zodra ik in het vliegtuig zat had wilde ik alleen nog slapen dus heb ik dat maar zo veel mogelijk gedaan. In plaats van slapen stond de hele vorige week in het teken van 'feestjes die ik 3 maanden niet mee kan maken'. Was heel gaaf, veel mensen gezien en veel drankjes gedaan en genoeg dansjes om het hele weekend spierpijn te hebben. En Feesttent van Kraantje Pappie in mijn hoofd.
+Ik wilde eigenlijk al eerder een stukje schrijven over vorige week, maar zodra ik in het vliegtuig zat wilde ik alleen nog slapen dus heb ik dat maar zo veel mogelijk gedaan. In plaats van slapen stond de hele vorige week in het teken van 'feestjes die ik 3 maanden niet mee kan maken'. Was heel gaaf, veel mensen gezien en veel drankjes gedaan en genoeg dansjes om het hele weekend spierpijn te hebben. En Feesttent van Kraantje Pappie in mijn hoofd.
 
 Totdat ik vanmorgen wakker werd in een vreemd bed er eigenlijk allemaal niet zoveel aan de hand. Alles was wel prima, lekker weinig stress, we zien wel hoe het loopt. De heenvlucht was relaxed, van Düsseldorf naar Madrid zat ik naast een slapende man dus ben ik zelf ook maar gaan slapen, en van Madrid naar Quito zat ik naast een Ecuadoriaans vrouwtje dat geen woord Engels sprak. Ze had denk ik ook niet zo'n hele hoge pet van mij op want toen het eerste vliegtuigvoedsel kwam (lunch, denk ik?) heb ik echt zitten vreten alsof mijn leven er vanaf hing. Snap best dat ze dat gek vond want het was klefferig vliegtuigvoedsel, maar ik had sinds half 5 's ochtends niks meer gegeten en het was half 3 dus ik kon wel een pony op. Ik heb wel van haar geleerd dat je heel hard "¡MAS CAFÉ!" moet roepen (met uitroeptekentjes) naar stewardessen zodra je koffie wil.
 
@@ -34,4 +38,3 @@ Ik heb trouwens ook een beroerde foto gemaakt van de wolken enzo.
 <figure>
 <a href="{{ site.url }}/images/Quito/IMG_0022.JPG"><img src="{{ site.url }}/images/Quito/IMG_0022.JPG"></a>
 </figure>
-
