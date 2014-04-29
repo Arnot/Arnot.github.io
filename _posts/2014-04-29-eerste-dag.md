@@ -2,7 +2,7 @@
 layout: post
 title: "Welkom in de feesttent"
 category: Ecuador
-tags: [Quito]
+tags: [Quito, William, Mas cafe]
 image: 
   feature: IMG_0009.JPG
 comments: true
@@ -17,7 +17,7 @@ Ik wilde eigenlijk al eerder een stukje schrijven over vorige week, maar zodra i
 
 Totdat ik vanmorgen wakker werd in een vreemd bed er eigenlijk allemaal niet zoveel aan de hand. Alles was wel prima, lekker weinig stress, we zien wel hoe het loopt. De heenvlucht was relaxed, van Düsseldorf naar Madrid zat ik naast een slapende man dus ben ik zelf ook maar gaan slapen, en van Madrid naar Quito zat ik naast een Ecuadoriaans vrouwtje dat geen woord Engels sprak. Ze had denk ik ook niet zo'n hele hoge pet van mij op want toen het eerste vliegtuigvoedsel kwam (lunch, denk ik?) heb ik echt zitten vreten alsof mijn leven er vanaf hing. Snap best dat ze dat gek vond want het was klefferig vliegtuigvoedsel, maar ik had sinds half 5 's ochtends niks meer gegeten en het was half 3 dus ik kon wel een pony op. Ik heb wel van haar geleerd dat je heel hard "¡MAS CAFÉ!" moet roepen (met uitroeptekentjes) naar stewardessen zodra je koffie wil.
 
-Op het vliegveld in Quito was wel even zweten omdat mijn tas (natuurlijk) als allerlaatste pas over die band heen kwam. Bij de uitgang stond iemand met een bordje voor Arno Tiemesa dus daar ben ik maar bij in de auto gestapt, en dat leek wel ongeveer te kloppen. In het studentenhuis kwam ik William en zijn vriendin met een hele moeilijke naam tegen. William had vroeger een coke-probleem maar nu is hij chill want hij heeft een vriendin en een gitaar en probeert in een gesubsidieerd huis voor muzikanten te komen. Blijkbaar heeft de regering hier zo'n last van reggaeton-muziek dat ze iedereen die andere muziek maakt een zak geld geven. Best prima systeem lijkt me zo. Hij heeft een bandje maar had nog geen gitarist, dus het lijkt erop dat ik voor de komende paar weken een nieuwe band heb. Verder heeft hij een huis op Isla Santa Cruz waar ik over een paar weken kan logeren, dus dat is helemaal top.
+Op het vliegveld in Quito was wel even zweten omdat mijn tas (natuurlijk) als allerlaatste pas over die band heen kwam. Bij de uitgang stond iemand met een bordje voor Arno Tiemesa dus daar ben ik maar bij in de auto gestapt, en dat leek wel ongeveer te kloppen. In het studentenhuis kwam ik William en zijn vriendin met een hele moeilijke naam tegen. William komt oorspronkelijk uit Ecuador maar heeft 7 jaar in Zwitserland gewoond dus spreekt ook vloeiend Engels en Duits. Hij had vroeger een coke-probleem zei hij, maar nu is hij daar vanaf want hij heeft een vriendin en een gitaar en probeert in een gesubsidieerd huis voor muzikanten te komen. Blijkbaar heeft de regering hier zo'n last van reggaeton-muziek dat ze iedereen die andere muziek maakt een zak geld geven. Best prima systeem lijkt me zo. Hij heeft een bandje maar had nog geen gitarist, dus het lijkt erop dat ik voor de komende paar weken een nieuwe band heb. Verder heeft hij een huis op Isla Santa Cruz waar ik over een paar weken kan logeren, dus dat is helemaal top.
 
 Maargoed, vanmorgen was dus wel shit, want ik had geen idee waar ik een douche kon vinden, of ontbijt. Natuurlijk zaten er ineens allemaal mensen in de woonkamer die alleen Spaans praten, maar met een beetje hablas ingles en buenos dias is het toch goedgekomen. Voor het eerst in m'n leven elektrisch gedoucht:
 
