@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boracho, cansado"
+title: "Borracho, cansado"
 category: Ecuador
 tags: 
   - Cotopaxi
