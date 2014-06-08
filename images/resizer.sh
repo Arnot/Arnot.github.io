@@ -1,3 +1,2 @@
 mkdir thumbs
-mogrify -resize 1200x -background white -gravity center -extent 1200x -format JPG -quality 100 -path thumbs *.JPG
-rm magick*
+mogrify -resize 600x -gravity center -extent 600x -format JPG -path thumbs *.JPG
