@@ -9,7 +9,7 @@ tags:
   - Borracho
   - Leo
 image: 
-  feature: img_1229.jpg
+  feature: IMG_1229.JPG
 comments: true
 share: true
 published: true
