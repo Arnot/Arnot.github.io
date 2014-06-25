@@ -1,2 +1,3 @@
 mkdir thumbs
-mogrify -resize 600x -gravity center -extent 600x -format JPG -path thumbs *.JPG
+mogrify -resize 1200x -gravity center -extent 1200x -format JPG *.JPG
+#mogrify -resize 1200x -gravity center -extent 1200x -format JPG -path thumbs *.JPG
